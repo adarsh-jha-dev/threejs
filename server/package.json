@@ -15,7 +15,9 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "fs.promises": "^0.1.2",
     "mongoose": "^7.0.3",
+    "node-fetch": "^3.3.2",
     "nodemon": "^2.0.22",
     "openai": "^4.24.1"
   }
